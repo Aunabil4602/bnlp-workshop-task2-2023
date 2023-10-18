@@ -2,9 +2,10 @@
 
 This repository contains the codes and external data used for the paper:
 
-Aunabil Chakma and Masum Hasan, "LowResource at BLP-2023 Task 2: Leveraging BanglaBert for Low Resource Sentiment Analysis of Bangla Language", In First Workshop on Bangla Language Processing at EMNLP 2023.
+Aunabil Chakma and Masum Hasan, <em>"LowResource at BLP-2023 Task 2: Leveraging BanglaBert for Low Resource Sentiment Analysis of Bangla Language"</em>, In First Workshop on Bangla Language Processing at EMNLP 2023.
 
 Shared Task Link: https://github.com/blp-workshop/blp_task2
+
 Workshop page Link: https://blp-workshop.github.io/
 
 # External - datasets
