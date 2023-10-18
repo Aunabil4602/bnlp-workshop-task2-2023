@@ -16,7 +16,7 @@ Workshop page Link: https://blp-workshop.github.io/
   - ["Bemoc: A corpus for identifying emotion in bengali texts."](https://github.com/avishek-018/BEmoC-Bengali-Emotion-Courpus)
   - ["Datasets for aspect-based sentiment analysis in
 bangla and its baseline evaluation."](https://github.com/atik-05/Bangla_ABSA_Datasets)
-  - https://www.kaggle.com/datasets/mahfuzahmed/banabsa
+  - ["An aspect-based sentiment analysis dataset for bengali and its baseline evaluation."](https://www.kaggle.com/datasets/mahfuzahmed/banabsa)
   - ["Abusive content detection
 in transliterated bengali-english social media corpus."](https://github.com/sazzadcsedu/)
   - ["Emotion classification in a resource constrained language using
