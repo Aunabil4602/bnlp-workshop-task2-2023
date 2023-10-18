@@ -10,4 +10,6 @@ in transliterated bengali-english social media corpus."](https://github.com/sazz
   - ["Emotion classification in a resource constrained language using
 transformer-based approach."](https://github.com/omar-sharif03/NAACL-SRW-2021)
 - external_data_banglabook_with_adjusted_label.tsv - contains the only banglabook dataset with adjusted labels.
-- paraphrasing_of_train_set_by_BanglaT5.tsv - contains the paraphrased data of the train set provided for the task by using BanglaT5.
+  - ["Banglabook: A large-scale bangla dataset for
+sentiment analysis from book reviews."](https://github.com/mohsinulkabir14/banglabook)   
+- paraphrasing_of_train_set_by_BanglaT5.tsv - contains the paraphrased data of the train set provided for the task by using [BanglaT5](https://arxiv.org/abs/2205.11081).
