@@ -5,3 +5,8 @@ This repository contains the codes and external data used for the submission on 
 Shared Task Link: https://github.com/blp-workshop/blp_task2
 
 Workshop page Link: https://blp-workshop.github.io/
+
+# external - datasets
+
+
+# Codes
